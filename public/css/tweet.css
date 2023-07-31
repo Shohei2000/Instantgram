@@ -1,0 +1,50 @@
+.tweet-input {
+    width: 100%;
+    border: none;
+    outline: none;
+    resize: none;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+/* 画像プレビューの最小値 */
+.tweet-image {
+    max-width: 10%;
+    min-width: 10px; /* 最小の幅 */
+    min-height: 10px; /* 最小の高さ */
+    margin-bottom: 10px;
+}
+
+.tweet-button {
+    background-color: #1da1f2;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.tweet-button:hover {
+    background-color: #0d8ecf;
+}
+
+/* 非表示でinputを配置 */
+.hidden-input {
+    display: none;
+}
+
+/* スタイルを適用するためのラベル */
+.image-label {
+    background-color: #1da1f2;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 10px;
+}

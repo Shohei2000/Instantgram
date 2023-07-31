@@ -1,3 +1,7 @@
+簡易的Instagaram&Twitter/掲示板
+<img width="1437" alt="home" src="https://github.com/Shohei2000/Instantgram/assets/77315803/393e91de-eae1-4b60-84fb-cb0042935789">
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
